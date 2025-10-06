@@ -66,6 +66,8 @@ java src/main/java/org/example/p9_MyTool/MyTools.java [options]
 
 ## 📜 License
 
+Notes!!! : this project is free for developed
+
 This project is released under the **MIT License**. You are free to use and modify it at your own responsibility.
 
 ```
